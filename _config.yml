@@ -13,10 +13,10 @@ include:
   - assets
 
 author:
-  name      : "ONION 2020"
-  avatar    : "/assets/onion.svg"
-  bio       : "Workshop on peOple in laNguage, vIsiOn and the miNd. This workshop is dedicated to multimodal approaches to describing people in terms of their bodies and faces."
-  location  : "Marseille, France"
+  name      : "IntelLang 2020"
+  avatar    : "/assets/robot.jpg"
+  bio       : " Intelligent Information Processing and Natural Language Generation"
+  location  : "Santiago de Compostela, Spain"
 
 defaults:
   # _pages
