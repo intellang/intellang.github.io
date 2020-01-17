@@ -3,17 +3,28 @@ permalink: /pc/
 title: Programme Committee
 ---
 
-- Adrian Muscat, University of Malta
-- Andreas Hotho, University of Würzburg
-- Andrew Hendrickson, University of Tilburg
-- Catherine Pelachaud, Institute for Intelligent Systems and Robotics, UPMC and CNRS 
-- Costanza Navarretta, CST, University of Copenhagen
-- David Hogg, University of Leeds
-- Diego Frassinelli, University of Stuttgart
-- Isabella Poggi, Roma Tre University
-- Jonas Beskow, KTH Speech, Music and Hearing
-- Jordi Gonzalez, Universitat Autònoma de Barcelona
-- Kristiina Jokinen, National Institute of Advanced Industrial Science and Technology (AIST)
-- Mihael Arcan,  National University of Ireland, Galway
-- Raffaella Bernardi, CiMEC Trento
-- Sebastian Padó, University of Stuttgart
+- Jose Alonso, Univ. Santiago de Compostela
+- Anja Belz, Univ. Brighton
+- Alberto Bugarín, Univ. Santiago de Compostela 
+- Josep Carmona, Univ. Politècnica de Catalunya 
+- Luka Eciolaza, Univ. Mondragon
+- Dimitra Gkatzia, Edinburgh Napier University
+- Claire Gardent, CNRS-LORIA France
+- Sergio Gramajo, Univ. Tecnológica Nacional, Argentina
+- Javier Medina, Univ. Jaén
+- Albert Gatt, Univ. of Malta
+- Pablo Gervás, Univ. Complutense de Madrid
+- Raquel Hervás, Univ. Complutense de Madrid
+- Laura Lanzarini, Universidad Nacional de La Plata, Argentina
+- Henrik Leopold, Kühne Logistics University
+- Elena Lloret, Univ. Alicante
+- Nicolás Marín, Univ. Granada
+- Simon Mille, Univ. Pompeu Fabra
+- José Ángel Olivas, Univ. Castilla-La Mancha
+- Ehud Reiter, Univ. Aberdeen 
+- Mariano Rico, Univ. Politécnica de Madrid
+- Daniel Sánchez, Univ. Granada
+- Christina Unger, Mercuri.ai
+- Leo Wanner, Univ. Pompeu Fabra
+- Slawomir Zadrozny, Polish Academy of Sciences
+- Sina Zarrieß, Friedrich-Schiller-Universität Jena
