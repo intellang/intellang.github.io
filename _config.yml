@@ -5,7 +5,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 
 minimal_mistakes_skin: "contrast" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise
 
-title: "ONION 2020"
+title: "IntelLanG 2020"
 
 include: 
   - _pages
@@ -13,7 +13,7 @@ include:
   - assets
 
 author:
-  name      : "IntelLang 2020"
+  name      : "IntelLanG 2020"
   avatar    : "/assets/robot.jpg"
   bio       : " Intelligent Information Processing and Natural Language Generation"
   location  : "Santiago de Compostela, Spain"

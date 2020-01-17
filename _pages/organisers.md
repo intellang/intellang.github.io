@@ -1,9 +1,9 @@
 ---
 permalink: /organisers/
-title: PLASM 2020 Organisers
+title: IntelLanG 2020 Workshop Chairs
 ---
 
-- [Patrizia Paggio](https://www.um.edu.mt/profile/patriziapaggio), University of Copenhagen, Denmark and University of Malta, Malta
+- [Daniel Sánchez](http://decsai.ugr.es/~daniel/), University of Granada, Spain
+- [Raquel Hervás](http://nil.fdi.ucm.es/?q=members/raquelhervas), Complutense University of Madrid, Spain 
 - [Albert Gatt](https://staff.um.edu.mt/albert.gatt/), University of Malta, Malta
-- [Roman Klinger](http://www.romanklinger.de/), University of Stuttgart, Germany
 

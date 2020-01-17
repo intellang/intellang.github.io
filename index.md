@@ -1,9 +1,10 @@
 ---
 permalink: /
-title: IntelLang - Intelligent Information Processing and Natural Language Generation
+title: IntelLanG - Intelligent Information Processing and Natural Language Generation
 ---
 
-### Co-located with [ECAI 2020](http://ecai2020.eu/), Santiago de Compostela
+### Co-located with [ECAI 2020](http://ecai2020.eu/)
+### June 8, 2020, Santiago de Compostela, Spain
 
 The main objective of the field of Natural Language Generation (NLG) is to help in the production of systems that allow the automatic creation of high-quality text from non-linguistic information.  NLG is currently one of the most relevant research areas for contemporary Artificial Intelligence. 
 
