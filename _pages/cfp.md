@@ -18,6 +18,7 @@ Topics of interest include, but are not limited to, tareas related to the use of
 - Dialog systems
 - Text Summarization
 - Generation of text grounded in multimodal data
+- Modular versus end-to-end NLG systems
 
 
 ## Submitting to the workshop
