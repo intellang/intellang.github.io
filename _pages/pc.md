@@ -27,4 +27,4 @@ title: Programme Committee
 - Christina Unger, Mercuri.ai
 - Leo Wanner, Univ. Pompeu Fabra
 - Slawomir Zadrozny, Polish Academy of Sciences
-<!-- - Sina Zarrieß, Friedrich-Schiller-Universität Jena -->
+- Sina Zarrieß, Friedrich-Schiller-Universität Jena
