@@ -34,3 +34,7 @@ The venue of the workshop and related travel information can also be found on th
 ## Submission system
 
 Submission will be handled via [EasyChair](https://easychair.org/conferences/?conf=intellang2020).
+
+## Proceedings
+
+Proceedings will be published in the [ACL Anthology](https://www.aclweb.org/anthology/).
