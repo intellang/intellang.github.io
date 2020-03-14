@@ -5,7 +5,7 @@ title: Call for papers
 
 The workshop is intended as a lively, open event to generate discussion. We would welcome submissions that are not only technical papers, but also position and discussion papers (highlights, as defined in the CFP of the main conference), about the intersection of NLG and Intelligent Data and Information processing. In addition, we will include an invited speaker talk and some discussion so new synergies and topics could arise.
 
-Topics of interest include, but are not limited to, tareas related to the use of AI techniques for:
+Topics of interest include, but are not limited to, tasks related to the use of AI techniques for:
 
 - Knowledge representation models for NLG.
 - Uncertainty management in NLG problems.
