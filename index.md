@@ -6,6 +6,7 @@ title: IntelLanG - Intelligent Information Processing and Natural Language Gener
 ### Co-located with [ECAI 2020](http://ecai2020.eu/)
 ### June 8, 2020, Santiago de Compostela, Spain
 ### Ensorsed by [SIGGEN: The ACL Special Interest Group in Natural Language Generation](https://aclweb.org/aclwiki/SIGGEN)
+#### News! Submission deadline extended to May 15, 2020, in view of the postponement of the ECAI conference due to ongoing efforts to contain the spread of COVID-19.####
 
 The main objective of the field of Natural Language Generation (NLG) is to help in the production of systems that allow the automatic creation of high-quality text from non-linguistic information.  NLG is currently one of the most relevant research areas for contemporary Artificial Intelligence. 
 
