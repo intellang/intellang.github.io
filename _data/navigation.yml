@@ -7,3 +7,5 @@ main:
     url: /organisers/
   - title: "Programme Committee"
     url: /pc/
+  - title: "Camera-ready papers"
+    url: /proceedings/
