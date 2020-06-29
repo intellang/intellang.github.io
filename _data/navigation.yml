@@ -1,11 +1,11 @@
 main:
   - title: "Call for papers"
     url: /cfp/
+  - title: "Camera-ready instructions"
+    url: /proceedings/
   - title: "Important Dates"
     url: /dates/
   - title: "Organisers"
     url: /organisers/
   - title: "Programme Committee"
     url: /pc/
-  - title: "Camera-ready papers"
-    url: /proceedings/
