@@ -8,4 +8,4 @@ title: Important dates
 Paper submission deadline|~~March 13, 2020~~ ~~March 20, 2020~~ May 15, 2020
 Notification of acceptance|~~April 15, 2020~~ June 15, 2020
 Camera ready Papers|~~May 15, 2020~~ July 3, 2020
-Workshop at ECAI 2020|~~June 8, 2020~~, August 29, 2020 
+Workshop at ECAI 2020|~~June 8, 2020, August 29, 2020~~ September 7, 2020
