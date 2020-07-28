@@ -1,8 +1,10 @@
 main:
+  - title: "Invited Talk"
+    url: /invited/
+  - title: "Accepted Papers"
+    url: /papers/
   - title: "Call for papers"
     url: /cfp/
-  - title: "Accepted papers"
-    url: /papers/
   - title: "Important Dates"
     url: /dates/
   - title: "Organisers"
