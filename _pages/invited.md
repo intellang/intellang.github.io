@@ -3,8 +3,6 @@ permalink: /invited/
 title: Invited Talk
 ---
 
-## Invited talk
-
 ### Kees van Deemter, **Restoring the link between linguistics and computation: the case of quantified expressions.**
 
 #### Abstract
