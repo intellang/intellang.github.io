@@ -6,6 +6,9 @@ title: IntelLanG - Intelligent Information Processing and Natural Language Gener
 #### Co-located with [ECAI 2020](http://ecai2020.eu/)
 #### September 7, 2020, Santiago de Compostela, Spain
 #### Ensorsed by [SIGGEN: The ACL Special Interest Group in Natural Language Generation](https://aclweb.org/aclwiki/SIGGEN)
+#### Proceedings are available from the [ACL Anthology](https://www.aclweb.org/anthology/volumes/2020.intellang-1/){:target="_blank"}
+
+
 
 ### About the workshop
 
