@@ -3,6 +3,10 @@ permalink: /papers/
 title: Accepted Papers
 ---
 
+### Published proceedings
+
+Workshop proceedings are now available on the [ACL Anthology](https://www.aclweb.org/anthology/volumes/2020.intellang-1/){:target="_blank"}
+
 #### Papers accepted for the workshop are linked below.
 
 - Carmen Martinez-Cruz, Javier Medina Query, Macarena Espinilla Estevez, Sergio Gramajo, [Analyzing daily behaviours from wearable trackers using linguistic protoforms and fuzzy clustering.]({{ site.baseurl }}/papers/1-IntelLanG_2020_paper_1.pdf){:target="_blank"}
